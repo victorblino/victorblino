@@ -12,7 +12,7 @@
 
 ## Olá pessoa!
 
-Já que você está aqui, quero me apresentar!. 
+Já que você está aqui, quero me apresentar!
 
 ## Informações:
 
@@ -25,9 +25,9 @@ Atualmente, estudo no Instituto Federal Catarinense no curso de Análise e Desen
 * **Nome**: Victor Lino
 * **Idade**: 21
 * **Langs**: Python - JavaScript - HTML - CSS - JavaScript - TypeScript - SQL 
-* **Universidade**: Instituto Federal Catarinense
+* **Universidade**: Instituto Federal Catarinense, cursando Análise e Desenvolvimento de Sistemas
 
 ## Curiosidades:
 
 * Meu jogo favorito (ou livro favorito) é Umineko When They Cry (a personagem principal é minha foto de perfil)!
-* Sou Community Manager!
+* Também sou Community Manager!
