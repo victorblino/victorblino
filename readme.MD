@@ -18,8 +18,6 @@ Já que você está aqui, quero me apresentar!
 
 Meu nome é Victor Lino a.k.a ADMVicli e moro em Santa Catarina! 
 
-Atualmente, estudo no Instituto Federal Catarinense no curso de Análise e Desenvolvimento de Sistemas e estou no segundo ano!
-
 ## Informações Detalhadas
 
 * **Nome**: Victor Lino
