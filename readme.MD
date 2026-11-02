@@ -16,7 +16,7 @@ Já que você está aqui, quero me apresentar!
 
 ## Informações:
 
-Meu nome é Victor Lino a.k.a ADMVicli e moro em Santa Catarina! 
+Meu nome é Victor Lino! 
 
 ## Informações Detalhadas
 
